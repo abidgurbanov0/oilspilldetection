@@ -1,6 +1,6 @@
 fastapi
 uvicorn
-python3-tk
+tk
 numpy
 matplotlib
 jcopdl
